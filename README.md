@@ -22,11 +22,13 @@ Once you cloned the repository, you just need to install dependencies via `compo
 ## How to run?
 
 For running the code you have to perform the following command from the project root folder:
+
 `php index.php`
 
 ## How to test?
 
 For running tests you have to perform the following command from the project root folder:
+
 `./vendor/bin/phpunit --testdox tests`
 
 ## Input/Output table example
