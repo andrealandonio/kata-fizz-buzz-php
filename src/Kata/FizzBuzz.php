@@ -44,7 +44,7 @@ class FizzBuzz
      * @param int $position
      * @return string
      */
-    public function calculateOutput($position) {
+    public function calculateOutput(int $position) {
         if ($position % self::VALUE_FIZZ === 0 && $position % self::VALUE_BUZZ === 0) {
             return self::LABEL_FIZZ . self::LABEL_BUZZ;
         }
