@@ -1,6 +1,6 @@
 <?php
-// Imports
-require 'src/Kata/FizzBuzz.php';
+
+require __DIR__ . '/vendor/autoload.php';
 
 use Kata\FizzBuzz;
 
